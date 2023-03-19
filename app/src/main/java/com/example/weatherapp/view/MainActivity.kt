@@ -17,6 +17,7 @@ import kotlin.math.roundToInt
 
 private const val TAG = "MainActivity"
 
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var viewmodel: MainViewModel
